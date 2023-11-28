@@ -1,0 +1,12 @@
+[
+    {
+        "name": "lua",
+        "url": "git@github.com:lua/lua.git",
+        "tag": "v5.4.4"
+    },
+    {
+        "name": "luaBridge",
+        "url": "git@github.com:kunitoki/LuaBridge3.git",
+        "tag": "3.0-beta4"
+    }
+]
